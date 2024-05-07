@@ -17,6 +17,9 @@ Brief description of the project. What problem does it solve? Why is it interest
 - Databases: MySQL
 - Tools: Git, VS Code
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adi7223&show_icons=true&locale=en&layout=compact" alt="Adi7223" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi7223&show_icons=true&locale=en" alt="Adi7223" /></p>
 ## Let's Connect!
 
 Feel free to explore my repositories and connect with me. I'm always open to collaboration and learning from fellow developers. 😊
