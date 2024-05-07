@@ -6,9 +6,6 @@ I'm Aditya, a passionate developer and tech enthusiast. Welcome to my GitHub pro
 - 💡 I love exploring new technologies and building cool projects.
 - 📫 How to reach me: adityaarav21@gmail.com | <a href="https://www.linkedin.com/in/aditya-gupta-85755425b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya Gupta" height="22" width="40" /></a> | <a href="https://instagram.com/adi_1359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aditya Gupta" height="25" width="40" /></a>
 
-### Project 1: [Project Name]
-Brief description of the project. What problem does it solve? Why is it interesting?
-
 
 ## Skills
 
